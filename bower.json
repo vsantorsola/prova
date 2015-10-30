@@ -1,6 +1,6 @@
 {
   "name": "MioProgetto",
-  "description": "Il mio nuovo progetto",
+  "version": "0.0.1", "description": "Il mio nuovo progetto",
   "main": "",
   "moduleType": [],
   "keywords": [
